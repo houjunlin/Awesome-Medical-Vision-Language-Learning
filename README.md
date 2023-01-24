@@ -7,14 +7,12 @@
 * [Papers](#papers)
 
 ## Datasets
-<!-- 
-| Dataset                   | Year  | Modality | Images |  Format   |  
+
+| Dataset                   | Year  | Modality | Images |  Text   |
 |---------------------------|-------|----------|--------|-----------|
-| [DDR](https://github.com/nkicsl/DDR-dataset) | 2019 | 13673 | jpg |
-| [DeepDRiD](https://isbi.deepdr.org/index.html) | 2019 | 2256 | jpg | 
-| [Kaggle](https://www.kaggle.com/c/diabetic-retinopathy-detection/) | 2015 | 88k | jpeg |
-| [Messidor](http://www.adcis.net/en/third-party/messidor/) | 2014 | 1200 | tiff |
--->
+| [MIMIC-CXR-JPG](https://physionet.org/content/mimic-cxr-jpg/2.0.0/)|  2019  | Chest X-ray | 377,110 | 227,827 |
+
+
 
 ## Papers
 
