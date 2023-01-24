@@ -37,8 +37,6 @@
 
 - MedCLIP: Contrastive Learning from Unpaired Medical Images and Text. EMNLP 2022. [[paper](https://arxiv.org/pdf/2210.10163.pdf)][[code](https://github.com/RyanWangZf/MedCLIP)]
   
-- Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study. arxiv 2022. [[paper](https://arxiv.org/pdf/2209.15517.pdf)]
-
 - Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training. MICCAI 2022. [[paper](https://arxiv.org/pdf/2209.07098.pdf)][[code](https://github.com/zhjohnchan/M3AE)]
 
 
@@ -64,6 +62,9 @@
 
 - Contrastive Learning of Medical Visual Representations from Paired Images and Text. MLHC 2022. [[paper](http://arxiv.org/abs/2010.00747)][[code](https://github.com/yuhaozhang/convirt)]
 
+### Prompt
+
+- Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study. arxiv 2022. [[paper](https://arxiv.org/pdf/2209.15517.pdf)]
 
 
 ### Segmentation
