@@ -19,6 +19,11 @@
 ## Papers
 
 
+### Survey
+
+- Beyond Medical Imaging: A Review of Multimodal Deep Learning in Radiology. techrxiv 2022. [[paper](https://www.researchgate.net/profile/Jan-Egger-2/publication/358581125_Beyond_Medical_Imaging_A_Review_of_Multimodal_Deep_Learning_in_Radiology/links/620a1e5a7b05f82592ea5bda/Beyond-Medical-Imaging-A-Review-of-Multimodal-Deep-Learning-in-Radiology.pdf)]
+
+
 ### Pre-training
 
 **2023**
@@ -41,9 +46,21 @@
 
 - Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports. Nature Machine Intelligence 2022. [[paper](https://arxiv.org/abs/2111.03452)]
 
+
+- Joint learning of localized representations from medical images and reports. ECCV 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_39)]
+
 **2021**
 
+- Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain. arxiv 2021. [[paper](https://arxiv.org/pdf/2112.13906.pdf)]
+
+- SCEHR: Supervised Contrastive Learning for Clinical Risk Prediction using Electronic Health Records
+
+- Multimodal Representation Learning via Maximization of Local Mutual Information. MICCAI 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-87196-3_26)]
+
 - GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-efficient Medical Image Recognition. ICCV 2021. [[paper](https://ieeexplore.ieee.org/document/9710099/)]
+
+- Self-supervised Image-text Pre-training With Mixed Data In Chest X-rays. arxiv 2021. [[paper](https://arxiv.org/pdf/2103.16022.pdf)]
+
 
 **2020**
 
