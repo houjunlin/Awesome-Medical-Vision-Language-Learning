@@ -12,7 +12,7 @@
 |--------------------------------------------------------------------|------|----------|--------|-----------|
 | [MIMIC-CXR-JPG](https://physionet.org/content/mimic-cxr-jpg/2.0.0/)| 2019 | Chest X-ray | 377,110 | 227,827 |
 | [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert)| 2019 | Chest X-ray | 224,316 | 224,316 |
-| [ROCO](https://github.com/razorx89/roco-dataset)                   | 2018 | CT, Ultrasound, X-Ray, Fluoroscopy, PET, Mammography, MRI, Angiography, PET-CT | 81,825 | 81,825 |
+| [ROCO](https://github.com/razorx89/roco-dataset)                   | 2018 | CT, Ultrasound, X-Ray, Fluoroscopy, PET, <br> Mammography, MRI, Angiography, PET-CT | 81,825 | 81,825 |
 
 
 
@@ -25,7 +25,7 @@
 - Beyond Medical Imaging: A Review of Multimodal Deep Learning in Radiology. techrxiv 2022. [[paper](https://www.researchgate.net/profile/Jan-Egger-2/publication/358581125_Beyond_Medical_Imaging_A_Review_of_Multimodal_Deep_Learning_in_Radiology/links/620a1e5a7b05f82592ea5bda/Beyond-Medical-Imaging-A-Review-of-Multimodal-Deep-Learning-in-Radiology.pdf)]
 
 
-### Pre-training
+### How to Train a Vision-Language-Pretraining Model
 
 **2023**
 
@@ -50,8 +50,6 @@
 
 **2021**
 
-- Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain. arxiv 2021. [[paper](https://arxiv.org/pdf/2112.13906.pdf)]
-
 - Multimodal Representation Learning via Maximization of Local Mutual Information. MICCAI 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-87196-3_26)]
 
 - GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-efficient Medical Image Recognition. ICCV 2021. [[paper](https://ieeexplore.ieee.org/document/9710099/)]
@@ -67,6 +65,12 @@
 **2018**
 
 - Unsupervised Multimodal Representation Learning across Medical Images and Reports. NIPS workshop 2018. [[paper](https://arxiv.org/pdf/1811.08615.pdf)]
+
+
+### How to Use a Vision-Language-Pretraining Model
+
+- Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain. arxiv 2021. [[paper](https://arxiv.org/pdf/2112.13906.pdf)]
+
 
 ### Prompt
 
