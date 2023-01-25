@@ -8,10 +8,12 @@
 
 ## Datasets
 
-| Dataset                   | Year  | Modality | Images |  Text   |
-|---------------------------|-------|----------|--------|-----------|
-| [MIMIC-CXR-JPG](https://physionet.org/content/mimic-cxr-jpg/2.0.0/)|  2019  | Chest X-ray | 377,110 | 227,827 |
-| [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert)|  2019  | Chest X-ray | 224,316 | 224,316 |
+| Dataset                                                            | Year | Modality | Images |  Text     |
+|--------------------------------------------------------------------|------|----------|--------|-----------|
+| [MIMIC-CXR-JPG](https://physionet.org/content/mimic-cxr-jpg/2.0.0/)| 2019 | Chest X-ray | 377,110 | 227,827 |
+| [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert)| 2019 | Chest X-ray | 224,316 | 224,316 |
+| [ROCO](https://github.com/razorx89/roco-dataset)                   | 2018 | CT, Ultrasound, X-Ray, Fluoroscopy, PET, Mammography, MRI, Angiography, PET-CT | 81,825 | 81,825 |
+
 
 
 
