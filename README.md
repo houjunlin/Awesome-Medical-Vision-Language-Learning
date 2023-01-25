@@ -63,7 +63,7 @@
 - Contrastive Learning of Medical Visual Representations from Paired Images and Text. MLHC 2022. [[paper](http://arxiv.org/abs/2010.00747)][[code](https://github.com/yuhaozhang/convirt)]
 
 
-** 2018 **
+**2018**
 
 - Unsupervised Multimodal Representation Learning across Medical Images and Reports. NIPS workshop 2018. [[paper](https://arxiv.org/pdf/1811.08615.pdf)]
 
