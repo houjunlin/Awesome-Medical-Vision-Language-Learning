@@ -50,8 +50,6 @@
 
 - Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain. arxiv 2021. [[paper](https://arxiv.org/pdf/2112.13906.pdf)]
 
-- SCEHR: Supervised Contrastive Learning for Clinical Risk Prediction using Electronic Health Records
-
 - Multimodal Representation Learning via Maximization of Local Mutual Information. MICCAI 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-87196-3_26)]
 
 - GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-efficient Medical Image Recognition. ICCV 2021. [[paper](https://ieeexplore.ieee.org/document/9710099/)]
