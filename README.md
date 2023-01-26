@@ -42,6 +42,7 @@
   
 - Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training. MICCAI 2022. [[paper](https://arxiv.org/pdf/2209.07098.pdf)][[code](https://github.com/zhjohnchan/M3AE)]
 
+- Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training. JHBI 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894658)][[code](https://github.com/SuperSupermoon/MedViLL)]
 
 - Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports. Nature Machine Intelligence 2022. [[paper](https://arxiv.org/abs/2111.03452)]
 
