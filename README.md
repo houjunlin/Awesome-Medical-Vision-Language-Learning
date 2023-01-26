@@ -37,7 +37,7 @@
 **2022**
 
 
-- Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning. NIPS 2022. [[paper](http://arxiv.org/abs/2210.06044)]
+- Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning. NIPS 2022. [[paper](http://arxiv.org/abs/2210.06044)][[code](https://github.com/fuying-wang/MGCA)]
 
 - MedCLIP: Contrastive Learning from Unpaired Medical Images and Text. EMNLP 2022. [[paper](https://arxiv.org/pdf/2210.10163.pdf)][[code](https://github.com/RyanWangZf/MedCLIP)]
   
