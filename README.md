@@ -84,14 +84,13 @@
 
 ## Vision Language Task
 
-**2022**
+### Segmentation
 
 - LViT: Language meets Vision Transformer in Medical Image Segmentation. arxiv 2022. [[paper](http://arxiv.org/abs/2206.14718)]
 
 
 ### Generation
 
-**2022**
 
 - RoentGen: Vision-Language Foundation Model for Chest X-ray Generation. arxiv 2022. [[paper](http://arxiv.org/abs/2211.12737)]
 
