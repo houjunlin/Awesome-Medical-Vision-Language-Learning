@@ -37,7 +37,6 @@
 
 **2022**
 
-
 - [MGCA] Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning. NIPS 2022. [[paper](http://arxiv.org/abs/2210.06044)][[code](https://github.com/fuying-wang/MGCA)]
 
 - MedCLIP: Contrastive Learning from Unpaired Medical Images and Text. EMNLP 2022. [[paper](https://arxiv.org/pdf/2210.10163.pdf)][[code](https://github.com/RyanWangZf/MedCLIP)]
@@ -47,6 +46,8 @@
 - [MedViLL] Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training. JHBI 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894658)][[code](https://github.com/SuperSupermoon/MedViLL)]
 
 - [REFERS] Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports. Nature Machine Intelligence 2022. [[paper](https://arxiv.org/abs/2111.03452)]
+
+- [BioViL] Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing. ECCV 2022. [[paper](https://arxiv.org/pdf/2204.09817.pdf)]
 
 - Joint learning of localized representations from medical images and reports. ECCV 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_39)]
 
@@ -75,8 +76,6 @@
 
 - Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study. arxiv 2022. [[paper](https://arxiv.org/pdf/2209.15517.pdf)]
 
-- [BioViL] Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing. ECCV 2022. [[paper](https://arxiv.org/pdf/2204.09817.pdf)]
-
 - Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains. NIPS workshop 2022. [[paper](http://arxiv.org/abs/2210.04133)]
 
 **2021**
@@ -85,6 +84,8 @@
 
 
 ## Vision Language Task
+
+Refer to [Awesome-Multimodal-Applications-In-Medical-Imaging](https://github.com/Richard88888/awesome-multimodal-in-medical-imaging) for more papers
 
 ### Segmentation
 
