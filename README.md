@@ -27,6 +27,16 @@
 
 ## Vision Language Pretraining
 
+### Text Encoder
+
+| Text Encoder                                                       | Year |  Corpus                      |
+|--------------------------------------------------------------------|------|------------------------------|
+| [ClinicalBERT](https://arxiv.org/abs/1904.05342)                   | 2019 | Wiki/Book, cased             |
+| [BioBERT](https://github.com/dmis-lab/biobert)                     | 2020 | PubMed, cased                |
+| [PubMedBERT](https://dl.acm.org/doi/10.1145/3458754)               | 2022 | PubMed, uncased              |
+| [CXR-BERT](https://arxiv.org/abs/2204.09817)                       | 2022 | PubMed+MIMIC-III/CXR, uncased|
+ 
+
 ### How to Train
 
 **2023**
