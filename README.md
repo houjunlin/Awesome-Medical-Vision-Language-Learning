@@ -47,8 +47,6 @@
 
 - Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports. Nature Machine Intelligence 2022. [[paper](https://arxiv.org/abs/2111.03452)]
 
-- Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing. ECCV 2022. [[paper](https://arxiv.org/pdf/2204.09817.pdf)]
-
 - Joint learning of localized representations from medical images and reports. ECCV 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_39)]
 
 **2021**
@@ -71,6 +69,12 @@
 
 
 ### How to Use a Vision-Language-Pretraining Model
+
+**2022**
+
+- Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing. ECCV 2022. [[paper](https://arxiv.org/pdf/2204.09817.pdf)]
+
+**2021**
 
 - Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain. arxiv 2021. [[paper](https://arxiv.org/pdf/2112.13906.pdf)]
 
