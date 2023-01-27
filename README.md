@@ -42,7 +42,7 @@
 
 - [MedViLL] Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training. JHBI 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894658)][[code](https://github.com/SuperSupermoon/MedViLL)]
 
-- [REFEE] Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports. Nature Machine Intelligence 2022. [[paper](https://arxiv.org/abs/2111.03452)]
+- [REFERS] Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports. Nature Machine Intelligence 2022. [[paper](https://arxiv.org/abs/2111.03452)]
 
 - Joint learning of localized representations from medical images and reports. ECCV 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_39)]
 
