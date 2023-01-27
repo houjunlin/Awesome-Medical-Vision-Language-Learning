@@ -18,15 +18,12 @@
 
 
 
-## Papers
-
-
-### Survey
+## Survey
 
 - Beyond Medical Imaging: A Review of Multimodal Deep Learning in Radiology. techrxiv 2022. [[paper](https://www.researchgate.net/profile/Jan-Egger-2/publication/358581125_Beyond_Medical_Imaging_A_Review_of_Multimodal_Deep_Learning_in_Radiology/links/620a1e5a7b05f82592ea5bda/Beyond-Medical-Imaging-A-Review-of-Multimodal-Deep-Learning-in-Radiology.pdf)]
 
 
-### How to Train a Vision-Language-Pretraining Model
+## How to Train a Vision-Language-Pretraining Model
 
 **2023**
 
@@ -68,7 +65,7 @@
 - Unsupervised Multimodal Representation Learning across Medical Images and Reports. NIPS workshop 2018. [[paper](https://arxiv.org/pdf/1811.08615.pdf)]
 
 
-### How to Use a Vision-Language-Pretraining Model
+## How to Use a Vision-Language-Pretraining Model
 
 **2022**
 
