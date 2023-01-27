@@ -27,22 +27,22 @@
 
 **2023**
 
-- Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing. arxiv 2023. [[paper](https://arxiv.org/pdf/2301.04558.pdf)]
+- [BioViL-T] Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing. arxiv 2023. [[paper](https://arxiv.org/pdf/2301.04558.pdf)]
 
 - MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training. arxiv 2023. [[paper](https://arxiv.org/pdf/2301.02228.pdf)] [[code](https://chaoyi-wu.github.io/MedKLIP/)]
 
 **2022**
 
 
-- Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning. NIPS 2022. [[paper](http://arxiv.org/abs/2210.06044)][[code](https://github.com/fuying-wang/MGCA)]
+- [MGCA] Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning. NIPS 2022. [[paper](http://arxiv.org/abs/2210.06044)][[code](https://github.com/fuying-wang/MGCA)]
 
 - MedCLIP: Contrastive Learning from Unpaired Medical Images and Text. EMNLP 2022. [[paper](https://arxiv.org/pdf/2210.10163.pdf)][[code](https://github.com/RyanWangZf/MedCLIP)]
   
-- Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training. MICCAI 2022. [[paper](https://arxiv.org/pdf/2209.07098.pdf)][[code](https://github.com/zhjohnchan/M3AE)]
+- [M3AE] Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training. MICCAI 2022. [[paper](https://arxiv.org/pdf/2209.07098.pdf)][[code](https://github.com/zhjohnchan/M3AE)]
 
-- Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training. JHBI 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894658)][[code](https://github.com/SuperSupermoon/MedViLL)]
+- [MedViLL] Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training. JHBI 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894658)][[code](https://github.com/SuperSupermoon/MedViLL)]
 
-- Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports. Nature Machine Intelligence 2022. [[paper](https://arxiv.org/abs/2111.03452)]
+- [REFEE] Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports. Nature Machine Intelligence 2022. [[paper](https://arxiv.org/abs/2111.03452)]
 
 - Joint learning of localized representations from medical images and reports. ECCV 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_39)]
 
@@ -57,7 +57,7 @@
 
 **2020**
 
-- Contrastive Learning of Medical Visual Representations from Paired Images and Text. MLHC 2022. [[paper](http://arxiv.org/abs/2010.00747)][[code](https://github.com/yuhaozhang/convirt)]
+- [ConVIRT] Contrastive Learning of Medical Visual Representations from Paired Images and Text. MLHC 2022. [[paper](http://arxiv.org/abs/2010.00747)][[code](https://github.com/yuhaozhang/convirt)]
 
 
 **2018**
@@ -69,11 +69,11 @@
 
 **2022**
 
-- Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing. ECCV 2022. [[paper](https://arxiv.org/pdf/2204.09817.pdf)]
+- [BioViL] Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing. ECCV 2022. [[paper](https://arxiv.org/pdf/2204.09817.pdf)]
 
 **2021**
 
-- Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain. arxiv 2021. [[paper](https://arxiv.org/pdf/2112.13906.pdf)]
+- [PubMedCLIP] Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain. arxiv 2021. [[paper](https://arxiv.org/pdf/2112.13906.pdf)]
 
 
 ### Prompt
