@@ -1,4 +1,4 @@
-# Awesome-Vision-Language-Learning-in-Medical-Domain
+# Awesome Medical Vision Language Learning
 
 
 
