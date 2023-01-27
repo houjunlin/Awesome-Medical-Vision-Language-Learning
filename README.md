@@ -23,7 +23,9 @@
 - Beyond Medical Imaging: A Review of Multimodal Deep Learning in Radiology. techrxiv 2022. [[paper](https://www.researchgate.net/profile/Jan-Egger-2/publication/358581125_Beyond_Medical_Imaging_A_Review_of_Multimodal_Deep_Learning_in_Radiology/links/620a1e5a7b05f82592ea5bda/Beyond-Medical-Imaging-A-Review-of-Multimodal-Deep-Learning-in-Radiology.pdf)]
 
 
-## How to Train a Vision-Language-Pretraining Model
+## Vision Language Pretraining
+
+### How to Train
 
 **2023**
 
@@ -65,23 +67,22 @@
 - Unsupervised Multimodal Representation Learning across Medical Images and Reports. NIPS workshop 2018. [[paper](https://arxiv.org/pdf/1811.08615.pdf)]
 
 
-## How to Use a Vision-Language-Pretraining Model
+### How to Use
 
 **2022**
 
+- Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study. arxiv 2022. [[paper](https://arxiv.org/pdf/2209.15517.pdf)]
+
 - [BioViL] Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing. ECCV 2022. [[paper](https://arxiv.org/pdf/2204.09817.pdf)]
+
+- Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains. NIPS workshop 2022. [[paper](http://arxiv.org/abs/2210.04133)]
 
 **2021**
 
 - [PubMedCLIP] Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain. arxiv 2021. [[paper](https://arxiv.org/pdf/2112.13906.pdf)]
 
 
-### Prompt
-
-- Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study. arxiv 2022. [[paper](https://arxiv.org/pdf/2209.15517.pdf)]
-
-
-### Segmentation
+## Vision Language Task
 
 **2022**
 
@@ -94,4 +95,3 @@
 
 - RoentGen: Vision-Language Foundation Model for Chest X-ray Generation. arxiv 2022. [[paper](http://arxiv.org/abs/2211.12737)]
 
-- Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains. NIPS workshop 2022. [[paper](http://arxiv.org/abs/2210.04133)]
