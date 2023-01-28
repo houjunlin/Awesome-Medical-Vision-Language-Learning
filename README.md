@@ -25,6 +25,12 @@
 - Beyond Medical Imaging: A Review of Multimodal Deep Learning in Radiology. techrxiv 2022. [[paper](https://www.researchgate.net/profile/Jan-Egger-2/publication/358581125_Beyond_Medical_Imaging_A_Review_of_Multimodal_Deep_Learning_in_Radiology/links/620a1e5a7b05f82592ea5bda/Beyond-Medical-Imaging-A-Review-of-Multimodal-Deep-Learning-in-Radiology.pdf)]
 
 
+## Tutorial
+
+- Vision-Language Pretraining: Current Trends and the Future. ACL 2022.  [[link](https://vlp-tutorial-acl2022.github.io/)]
+
+- Recent Advances in Vision-and-Language Pre-training. CVPR 2022. [[link](https://vlp-tutorial.github.io/2022/)]
+
 ## Vision Language Pretraining
 
 ### Text Encoder
