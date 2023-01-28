@@ -69,11 +69,11 @@
 
 - [BioViL] Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing. ECCV 2022. [[paper](https://arxiv.org/pdf/2204.09817.pdf)]
 
-- Joint learning of localized representations from medical images and reports. ECCV 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_39)]
+- [LoVT] Joint learning of localized representations from medical images and reports. ECCV 2022. [[paper](https://link.springer.com/chapter/10.1007/978-3-031-19809-0_39)]
 
 **2021**
 
-- Multimodal Representation Learning via Maximization of Local Mutual Information. MICCAI 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-87196-3_26)]
+- [Local-MI] Multimodal Representation Learning via Maximization of Local Mutual Information. MICCAI 2021. [[paper](https://link.springer.com/chapter/10.1007/978-3-030-87196-3_26)]
 
 - GLoRIA: A Multimodal Global-Local Representation Learning Framework for Label-efficient Medical Image Recognition. ICCV 2021. [[paper](https://ieeexplore.ieee.org/document/9710099/)]
 
