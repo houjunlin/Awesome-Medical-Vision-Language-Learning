@@ -53,6 +53,8 @@
   
 - [M3AE] Multi-Modal Masked Autoencoders for Medical Vision-and-Language Pre-Training. MICCAI 2022. [[paper](https://arxiv.org/pdf/2209.07098.pdf)][[code](https://github.com/zhjohnchan/M3AE)]
 
+- Breaking with Fixed Set Pathology Recognition through Report-Guided Contrastive Training. MICCAI 2022. [[paper](https://arxiv.org/pdf/2205.07139.pdf)]
+
 - Align, Reason and Learn: Enhancing Medical Vision-and-Language Pre-training with Knowledge. MM 2022. [[paper](https://arxiv.org/pdf/2209.07118.pdf)][[code](https://github.com/zhjohnchan/ARL)]
 
 - [MedViLL] Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training. JHBI 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894658)][[code](https://github.com/SuperSupermoon/MedViLL)]
