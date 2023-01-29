@@ -65,7 +65,7 @@
 
 - [MedViLL] Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training. JHBI 2022. [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9894658)][[code](https://github.com/SuperSupermoon/MedViLL)]
 
-- [REFERS] Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports. Nature Machine Intelligence 2022. [[paper](https://arxiv.org/abs/2111.03452)]
+- [REFERS] Generalized radiograph representation learning via cross-supervision between images and free-text radiology reports. Nature Machine Intelligence 2022. [[paper](https://arxiv.org/abs/2111.03452)][[code](https://github.com/funnyzhou/REFERS)]
 
 - [BioViL] Making the Most of Text Semantics to Improve Biomedical Vision–Language Processing. ECCV 2022. [[paper](https://arxiv.org/pdf/2204.09817.pdf)]
 
