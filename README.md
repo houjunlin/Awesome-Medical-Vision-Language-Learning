@@ -100,7 +100,7 @@
 
 **2021**
 
-- [PubMedCLIP] Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain. arxiv 2021. [[paper](https://arxiv.org/pdf/2112.13906.pdf)]
+- [PubMedCLIP] Does CLIP Benefit Visual Question Answering in the Medical Domain as Much as it Does in the General Domain. arxiv 2021. [[paper](https://arxiv.org/pdf/2112.13906.pdf)][[code](https://github.com/sarahESL/PubMedCLIP)]
 
 
 ## Vision Language Task
