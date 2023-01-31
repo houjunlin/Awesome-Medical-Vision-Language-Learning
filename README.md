@@ -37,15 +37,17 @@
 
 | Text Encoder                                                       | Year |  Corpus                      |
 |--------------------------------------------------------------------|------|------------------------------|
-| [ClinicalBERT](https://arxiv.org/abs/1904.05342)                   | 2019 | Wiki/Book, cased             |
-| [BioBERT](https://github.com/dmis-lab/biobert)                     | 2020 | PubMed, cased                |
-| [PubMedBERT](https://dl.acm.org/doi/10.1145/3458754)               | 2022 | PubMed, uncased              |
-| [CXR-BERT](https://arxiv.org/abs/2204.09817)                       | 2022 | PubMed+MIMIC-III/CXR, uncased|
+| [BioBERT](https://github.com/dmis-lab/biobert)                     | 2020 | PubMed                       |
+| [ClinicalBERT](https://arxiv.org/abs/1904.05342)                   | 2019 | MIMIC-III                    |
+| [PubMedBERT](https://dl.acm.org/doi/10.1145/3458754)               | 2022 | PubMed                       |
+| [CXR-BERT](https://arxiv.org/abs/2204.09817)                       | 2022 | PubMed+MIMIC-III/CXR         |
  
 
 ### How to Train
 
 **2023**
+
+- [MRM] Advancing Radiograph Representation Learning with Masked Record Modeling. ICLR 2023. [[paper](https://openreview.net/forum?id=w-x7U26GM7j)[[code](https://github.com/RL4M/MRM-pytorch)]
 
 - [BioViL-T] Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing. arxiv 2023. [[paper](https://arxiv.org/pdf/2301.04558.pdf)]
 
