@@ -47,7 +47,7 @@
 
 **2023**
 
-- [MRM] Advancing Radiograph Representation Learning with Masked Record Modeling. ICLR 2023. [[paper](https://openreview.net/forum?id=w-x7U26GM7j)[[code](https://github.com/RL4M/MRM-pytorch)]
+- [MRM] Advancing Radiograph Representation Learning with Masked Record Modeling. ICLR 2023. [[paper](https://openreview.net/forum?id=w-x7U26GM7j)][[code](https://github.com/RL4M/MRM-pytorch)]
 
 - [BioViL-T] Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing. arxiv 2023. [[paper](https://arxiv.org/pdf/2301.04558.pdf)]
 
