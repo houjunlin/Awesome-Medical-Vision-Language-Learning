@@ -22,6 +22,8 @@
 
 - VLP: A Survey on Vision-Language Pre-training. arxiv 2022. [[paper](https://arxiv.org/pdf/2202.09061.pdf)]
 
+- Vision-Language Pre-training: Basics, Recent Advances, and Future Trends. arxiv 2022. [[paper](https://arxiv.org/pdf/2210.09263.pdf)]
+
 - Beyond Medical Imaging: A Review of Multimodal Deep Learning in Radiology. techrxiv 2022. [[paper](https://www.researchgate.net/profile/Jan-Egger-2/publication/358581125_Beyond_Medical_Imaging_A_Review_of_Multimodal_Deep_Learning_in_Radiology/links/620a1e5a7b05f82592ea5bda/Beyond-Medical-Imaging-A-Review-of-Multimodal-Deep-Learning-in-Radiology.pdf)]
 
 
