@@ -49,6 +49,8 @@
 
 **2023**
 
+- Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts. arxiv 2023. [[paper](https://arxiv.org/pdf/2302.08958.pdf)][[code](https://github.com/zhjohnchan/PTUnifier)]
+
 - [MRM] Advancing Radiograph Representation Learning with Masked Record Modeling. ICLR 2023. [[paper](https://openreview.net/forum?id=w-x7U26GM7j)][[code](https://github.com/RL4M/MRM-pytorch)]
 
 - [BioViL-T] Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing. arxiv 2023. [[paper](https://arxiv.org/pdf/2301.04558.pdf)]
@@ -85,6 +87,8 @@
 
 
 **2020**
+
+- A Comparison of Pre-trained Vision-and-Language Models for Multimodal Representation Learning across Medical Images and Reports. BIBM 2020. [[paper](https://ieeexplore.ieee.org/abstract/document/9313289)]
 
 - [ConVIRT] Contrastive Learning of Medical Visual Representations from Paired Images and Text. MLHC 2022. [[paper](http://arxiv.org/abs/2010.00747)][[code](https://github.com/yuhaozhang/convirt)]
 
