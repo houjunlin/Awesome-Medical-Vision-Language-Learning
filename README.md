@@ -49,6 +49,8 @@
 
 **2023**
 
+- Vision-Language Modelling for Radiological Imaging and Reports in the Low Data Regime. MIDL 2023. [[paper](https://arxiv.org/pdf/2303.17644.pdf)]
+
 - Towards Unifying Medical Vision-and-Language Pre-training via Soft Prompts. arxiv 2023. [[paper](https://arxiv.org/pdf/2302.08958.pdf)][[code](https://github.com/zhjohnchan/PTUnifier)]
 
 - [MRM] Advancing Radiograph Representation Learning with Masked Record Modeling. ICLR 2023. [[paper](https://openreview.net/forum?id=w-x7U26GM7j)][[code](https://github.com/RL4M/MRM-pytorch)]
