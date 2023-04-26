@@ -55,7 +55,7 @@
 
 - [MRM] Advancing Radiograph Representation Learning with Masked Record Modeling. ICLR 2023. [[paper](https://openreview.net/forum?id=w-x7U26GM7j)][[code](https://github.com/RL4M/MRM-pytorch)]
 
-- [BioViL-T] Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing. arxiv 2023. [[paper](https://arxiv.org/pdf/2301.04558.pdf)]
+- [BioViL-T] Learning to Exploit Temporal Structure for Biomedical Vision–Language Processing. CVPR 2023. [[paper](https://arxiv.org/pdf/2301.04558.pdf)]
 
 - MedKLIP: Medical Knowledge Enhanced Language-Image Pre-Training. arxiv 2023. [[paper](https://arxiv.org/pdf/2301.02228.pdf)] [[code](https://chaoyi-wu.github.io/MedKLIP/)]
 
@@ -102,9 +102,11 @@
 
 ### How to Use
 
-**2022**
+**2023**
 
-- Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study. arxiv 2022. [[paper](https://arxiv.org/pdf/2209.15517.pdf)]
+- Medical Image Understanding with Pretrained Vision Language Models: A Comprehensive Study. ICLR 2023. [[paper](https://arxiv.org/pdf/2209.15517.pdf)]
+
+**2022**
 
 - Adapting Pretrained Vision-Language Foundational Models to Medical Imaging Domains. NIPS workshop 2022. [[paper](http://arxiv.org/abs/2210.04133)]
 
@@ -119,7 +121,7 @@ Refer to [Awesome-Multimodal-Applications-In-Medical-Imaging](https://github.com
 
 ### Segmentation
 
-- LViT: Language meets Vision Transformer in Medical Image Segmentation. arxiv 2022. [[paper](http://arxiv.org/abs/2206.14718)]
+- LViT: Language meets Vision Transformer in Medical Image Segmentation. arxiv 2022. [[paper](http://arxiv.org/abs/2206.14718)][[code](https://github.com/HUANGLIZI/LViT)]
 
 
 ### Generation
