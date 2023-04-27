@@ -49,7 +49,7 @@
 
 **2023**
 
-- LARGE-SCALE DOMAIN-SPECIFIC PRETRAINING FOR BIOMEDICAL VISION-LANGUAGE PROCESSING. arxiv 2023. [[paepr](https://arxiv.org/pdf/2303.00915.pdf)][[code](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224)]
+- [BiomedCLIP]LARGE-SCALE DOMAIN-SPECIFIC PRETRAINING FOR BIOMEDICAL VISION-LANGUAGE PROCESSING. arxiv 2023. [[paepr](https://arxiv.org/pdf/2303.00915.pdf)][[code](https://huggingface.co/microsoft/BiomedCLIP-PubMedBERT_256-vit_base_patch16_224)]
 
 - Vision-Language Modelling for Radiological Imaging and Reports in the Low Data Regime. MIDL 2023. [[paper](https://arxiv.org/pdf/2303.17644.pdf)]
 
